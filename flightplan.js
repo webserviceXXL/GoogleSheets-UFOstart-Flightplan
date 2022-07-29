@@ -1,10 +1,3 @@
-// Add Library
-// 1uBj9pQlzO2m_06HcdeAyMMd1MXj6__3Os59p4YYdFau1K2DUOR_eAQQx
-
-function doGet(e) {
-  initialSetup()
-}
-
 function initialSetup() {
   /* Ask for API key */
   let apiKey = GetApiKey();
